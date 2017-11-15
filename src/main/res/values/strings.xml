@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="header">Detective Stories Lovers QUIZ!</string>
+    <string name="first_question">1. Which of these characters is Agatha Christie\'s character?</string>
+    <string name="second_question">2. Who created Arsène Lupin character?</string>
+    <string name="third_question">3. Who was Hercule Poirot\'s closest friend?</string>
+    <string name="fourth_question">4. Who created Conan Edogawa character?</string>
+    <string name="fifth_question">5. What is Watson\'s (the closest friend of Sherlock Holmes) job?</string>
+    <string name="surgeon">Surgeon</string>
+    <string name="dentist">Dentist</string>
+    <string name="policeman">Policeman</string>
+    <string name="sixth_question">6. Who considered the inventor of the detective fiction genre?</string>
+    <string name="type_your_name_please">Type your name, Please...</string>
+    <string name="submit_your_answer">Submit your answer</string>
+    <string name="seventh_Question">7. What is the name of Sherlock Holmes\'s enemy?</string>
+    <string name="type_a_name">Type a name ...</string>
+</resources>
